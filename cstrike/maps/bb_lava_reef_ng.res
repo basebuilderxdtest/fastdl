@@ -1,0 +1,10 @@
+gfx/env/mpa45bk.tga
+gfx/env/mpa45dn.tga
+gfx/env/mpa45ft.tga
+gfx/env/mpa45lf.tga
+gfx/env/mpa45rt.tga
+gfx/env/mpa45up.tga
+maps/bb_lava_reef_ng.txt
+maps/bb_lava_reef_ng.wad
+maps/bb_lava_reef_ng.res
+sound/bb_lava_reef_ng/lavamud.wav

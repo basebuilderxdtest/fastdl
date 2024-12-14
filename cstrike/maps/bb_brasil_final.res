@@ -1,0 +1,2 @@
+maps/bb_brasil_final.bsp
+maps/bb_brasil_final.txt
